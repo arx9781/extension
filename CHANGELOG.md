@@ -1,9 +1,16 @@
 # Change Log
 
-All notable changes to the "no-cl" extension will be documented in this file.
+### ^0.0.1
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+    - Initial Release
 
-## [Unreleased]
+### ^0.0.5
 
-- Initial release
+    - Darkened the Editor
+    - Disabled Bracket Pair Highlighting
+
+### ^1.0.0
+
+    - Added Icon
+    - Change of the Status Bar Color when No Folder is Opened
+    - Minor Tweaks

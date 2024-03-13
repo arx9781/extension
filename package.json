@@ -2,7 +2,8 @@
   "name": "mono-cl",
   "displayName": "mono-cl",
   "description": "A dark, minimal, pleasing-to-the-eye color theme that was created for the devs who embrace the dark-side. This theme takes inspiration from 'simple-dark' but mutes the color a bit. Your Welcome :D",
-  "version": "0.0.1",
+  "version": "1.0.0",
+  "icon": "./MONO-CL.png",
   "publisher": "arx9781",
   "engines": {
     "vscode": "^1.87.0"
